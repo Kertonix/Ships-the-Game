@@ -1,0 +1,3 @@
+C:/Users/pchmi/CLionProjects/Ships the Game/cmake-build-debug/CMakeFiles/projC.dir
+C:/Users/pchmi/CLionProjects/Ships the Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pchmi/CLionProjects/Ships the Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
